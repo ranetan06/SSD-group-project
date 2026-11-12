@@ -1,1 +1,1 @@
-# SSD-exercises
+# SSD-group-project
